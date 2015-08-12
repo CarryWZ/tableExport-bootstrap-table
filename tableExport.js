@@ -31,7 +31,7 @@
         displayTableName: false,
         escape: false,
         excelstyles: ['border-bottom', 'border-top', 'border-left', 'border-right'],
-        fileName: '',
+        fileName: '1',
         htmlContent: false,
         ignoreColumn: [],
         jspdf: {orientation: 'l',
