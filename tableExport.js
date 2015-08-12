@@ -31,7 +31,7 @@
         displayTableName: false,
         escape: false,
         excelstyles: ['border-bottom', 'border-top', 'border-left', 'border-right'],
-        fileName: window.localStorage.getItem("username") + ' --- ' + 'exportProjets --- ' + new Date().toLocaleString(),
+        fileName: '',
         htmlContent: false,
         ignoreColumn: [],
         jspdf: {orientation: 'l',
